@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "202924719560",
+    "project_id": "deha-ieu",
+    "storage_bucket": "deha-ieu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202924719560:android:dfc46b0c29b184797914fd",
+        "android_client_info": {
+          "package_name": "com.deha.deha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202924719560-is6nlm7du320burh9bub3u3n4i961s6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deha.deha",
+            "certificate_hash": "cdab11eaa4aed0bcf52a1ee360499c9f8b03418f"
+          }
+        },
+        {
+          "client_id": "202924719560-tn112vuhvubjjnq2if8fqiguarp8vjd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmjFrrAXijDJHD3OCwtio8N63vL-Bd8G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202924719560-tn112vuhvubjjnq2if8fqiguarp8vjd9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202924719560-dh3on063ru7laodb6cc3mjk04tt6171l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deha.deha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
